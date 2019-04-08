@@ -1,0 +1,7 @@
+C:\Users\mieshki\source\repos\SimpleLogger\SimpleLogger\bin\Debug\SimpleLogger.exe.config
+C:\Users\mieshki\source\repos\SimpleLogger\SimpleLogger\bin\Debug\SimpleLogger.exe
+C:\Users\mieshki\source\repos\SimpleLogger\SimpleLogger\bin\Debug\SimpleLogger.pdb
+C:\Users\mieshki\source\repos\SimpleLogger\SimpleLogger\obj\Debug\SimpleLogger.csprojAssemblyReference.cache
+C:\Users\mieshki\source\repos\SimpleLogger\SimpleLogger\obj\Debug\SimpleLogger.csproj.CoreCompileInputs.cache
+C:\Users\mieshki\source\repos\SimpleLogger\SimpleLogger\obj\Debug\SimpleLogger.exe
+C:\Users\mieshki\source\repos\SimpleLogger\SimpleLogger\obj\Debug\SimpleLogger.pdb
